@@ -11,6 +11,8 @@ Official PyTorch implementation of [Caption Anything in Video: Fine-grained Obje
 
 - [01/25/2026] CAT-V has been awarded Best Demonstration Runner-up @ AAAI 2026.
 - [10/30/2025] CAT-V has been accepted to the AAAI 2026 Demonstration Program.
+- [07/05/2025] We release a demo video for CAT-V.
+- [04/07/2025] The [technical report](https://arxiv.org/abs/2504.05541) of CAT-V has been released.
 
 ## 🕹️ Demo
 
